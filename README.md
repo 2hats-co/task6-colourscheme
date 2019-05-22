@@ -3,7 +3,7 @@
 fetch('http://www.thecolorapi.com/id?cmyk=' /* + your input here */)
 ```
 
-# ColorMind API sample code
+# Colormind API sample code
 ```javascript
 fetch('http://colormind.io/api/', {
   method: 'POST',
